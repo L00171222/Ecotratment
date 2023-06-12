@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ecotratment/static/css/main.eaea17fd.css",
+    "main.js": "/Ecotratment/static/js/main.92270814.js",
+    "static/media/hero-min.png": "/Ecotratment/static/media/hero-min.4207ece1d23761b6ce92.png",
+    "static/media/f.png": "/Ecotratment/static/media/f.2a07eb668b818c1a41b0.png",
+    "static/media/about1.jpg": "/Ecotratment/static/media/about1.0593bc2fd8a13cf8c19f.jpg",
+    "static/media/about2.jpg": "/Ecotratment/static/media/about2.ad1ed7ee8284087fe9ee.jpg",
+    "static/media/about3.jpg": "/Ecotratment/static/media/about3.fa689b1037dbf69567a3.jpg",
+    "static/media/banner.jpg": "/Ecotratment/static/media/banner.c53c8971d16c9a1033ae.jpg",
+    "static/media/ab7ad438-e320-414e-a206-28e1752343dd.svg": "/Ecotratment/static/media/ab7ad438-e320-414e-a206-28e1752343dd.737420d045a046933f0345cabd6e39b3.svg",
+    "static/media/36c2306c-6dfe-4bcc-b35d-9800d52ff2de.svg": "/Ecotratment/static/media/36c2306c-6dfe-4bcc-b35d-9800d52ff2de.facd01ef9f7c22c962e16767ba0d60bf.svg",
+    "static/media/d7d3df0c-daae-49e7-83a2-682ff0bdf44b.svg": "/Ecotratment/static/media/d7d3df0c-daae-49e7-83a2-682ff0bdf44b.8077ca274d3dd0452c755d93cc10babf.svg",
+    "static/media/4922db64-349d-4e40-ae0a-5872bc012607.svg": "/Ecotratment/static/media/4922db64-349d-4e40-ae0a-5872bc012607.abeeeecbccebad3d2f6034b832cb1a52.svg",
+    "index.html": "/Ecotratment/index.html",
+    "main.eaea17fd.css.map": "/Ecotratment/static/css/main.eaea17fd.css.map",
+    "main.92270814.js.map": "/Ecotratment/static/js/main.92270814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaea17fd.css",
+    "static/js/main.92270814.js"
+  ]
+}
